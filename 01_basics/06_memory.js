@@ -10,8 +10,8 @@ let anotherName = myName
 console.log(anotherName)
 anotherName = "TitanicLion"
 
-console.log(myName)
-console.log(anotherName)
+console.log(myName)     // MayukhMandal
+console.log(anotherName)    // TitanicLion
 
 let userOne = {
     email: "user@google.com",
@@ -23,5 +23,5 @@ console.log(userTwo);
 
 userTwo.email = "mayukh@google.com"
 
-console.log(userOne.email)
-console.log(userTwo.email)
+console.log(userOne.email)      //mayukh@google.com
+console.log(userTwo.email)      //mayukh@google.com
